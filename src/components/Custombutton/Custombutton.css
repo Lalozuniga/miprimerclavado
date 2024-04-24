@@ -9,6 +9,7 @@
     border-radius: 7px;
     box-shadow:2px 2px 5px 3px rgba(79, 78, 78, 0.8);
     user-select: none;
+    margin-top: 5px;
 }
 .my-button:hover{
     background: #77a1f4;

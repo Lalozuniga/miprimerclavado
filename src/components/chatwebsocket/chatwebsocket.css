@@ -1,0 +1,13 @@
+.chat-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    background: #fafafa;
+}
+.chat-messages{
+    margin-top: auto;
+    display:grid;
+    justify-content: end;
+}
+
